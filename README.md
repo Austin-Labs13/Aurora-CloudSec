@@ -4,7 +4,7 @@ Enterprise Infrastructure &amp; Cybersecurity Project
 
 Aurora CloudSec is a fictional managed cloud and cybersecurity company created to simulate the design, deployment, and operation of a modern enterprise IT environment.
 
-This project documents every stage of the journey—from enterprise planning and virtualization through Active Directory, PKI, Microsoft 365, Azure, Entra ID, Intune, monitoring, and security operations.
+This project documents every stage of the journey from enterprise planning and virtualization through Active Directory, PKI, Microsoft 365, Azure, Entra ID, Intune, monitoring, and security operations.
 
 The goal is not simply to build a home lab, but to understand why enterprise technologies are deployed, how they integrate, and how they are managed in a real business environment.
 
