@@ -18,7 +18,7 @@ The project is being built to simulate a real-world Microsoft enterprise environ
 
 ## Current Status
 
-🚧 Planning complete.
+Planning complete.
 
 Next milestone:
 - Deploy the first Windows Server domain controller.
