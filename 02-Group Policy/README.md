@@ -89,16 +89,6 @@ Finance
 └── Users
 ```
 
-Policy configured:
-
-```text
-User Configuration
-└── Policies
-    └── Administrative Templates
-        └── Control Panel
-            └── Prohibit access to Control Panel and PC Settings
-```
-
 ### Result
 
 - Finance users cannot access Control Panel.
