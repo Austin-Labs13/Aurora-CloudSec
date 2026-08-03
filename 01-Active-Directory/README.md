@@ -42,11 +42,12 @@ Confirmed NTFS permissions by testing access with users from different departmen
 
 Created Global Security Groups for each department to manage permissions through group membership rather than assigning access directly to user accounts.
 
-![Security Groups](screenshots/ad-security-groups.png)
 
 > <img width="1020" height="781" alt="Screenshot (857)" src="https://github.com/user-attachments/assets/eee7c276-ae1c-4d84-805c-76ba11daec2e" />
 
 ### NTFS Permissions
+
+Configured NTFS permissions so only the appropriate department security group has Modify access. Administrators and SYSTEM retain Full Control.
 
 > <img width="1074" height="843" alt="Screenshot (858)" src="https://github.com/user-attachments/assets/2cf55a13-0d06-43bd-bdaf-d9447ad17933" />
 
