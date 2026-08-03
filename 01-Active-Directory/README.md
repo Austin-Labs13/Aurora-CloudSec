@@ -40,6 +40,10 @@ Confirmed NTFS permissions by testing access with users from different departmen
 
 ### Active Directory Security Groups
 
+Created Global Security Groups for each department to manage permissions through group membership rather than assigning access directly to user accounts.
+
+![Security Groups](screenshots/ad-security-groups.png)
+
 > <img width="1020" height="781" alt="Screenshot (857)" src="https://github.com/user-attachments/assets/eee7c276-ae1c-4d84-805c-76ba11daec2e" />
 
 ### NTFS Permissions
