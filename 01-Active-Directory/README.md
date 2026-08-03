@@ -40,18 +40,20 @@ Confirmed NTFS permissions by testing access with users from different departmen
 
 ### Active Directory Security Groups
 
-> <img width="1020" height="781" alt="Screenshot (857)" src="https://github.com/user-attachments/assets/e81a1e44-b7cb-494a-a8a9-e28850f73067" />
+> <img width="1020" height="781" alt="Screenshot (857)" src="https://github.com/user-attachments/assets/eee7c276-ae1c-4d84-805c-76ba11daec2e" />
 
 ### NTFS Permissions
 
-> <img width="1074" height="843" alt="Screenshot (858)" src="https://github.com/user-attachments/assets/7da6d8ca-3996-414e-8960-3b53aa0caf71" />
+> <img width="1074" height="843" alt="Screenshot (858)" src="https://github.com/user-attachments/assets/2cf55a13-0d06-43bd-bdaf-d9447ad17933" />
+
 
 
 ### Share Configuration
 
-> <img width="1053" height="804" alt="Screenshot (860)" src="https://github.com/user-attachments/assets/17947dbd-36a9-488d-bb0f-8c113863f255" />
+> <img width="1053" height="804" alt="Screenshot (860)" src="https://github.com/user-attachments/assets/a5513c46-ddca-46f9-972f-a74b5fb3dcf2" />
 
 
 ### Validation
 
-> <img width="1336" height="703" alt="Screenshot (862)" src="https://github.com/user-attachments/assets/cec34bd2-e2ec-491f-b420-cb094a4d4105" />
+> <img width="1336" height="703" alt="Screenshot (862)" src="https://github.com/user-attachments/assets/56e5ea04-90be-4564-92f6-2d07090c1a3f" />
+
