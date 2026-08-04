@@ -204,6 +204,8 @@ The workstation successfully received:
 
 
 The Windows DHCP console immediately displayed the active lease for **AUR-CL01**, confirming successful deployment.
+
+
 <img width="945" height="901" alt="Screenshot (929)" src="https://github.com/user-attachments/assets/c14f6ed2-f5ef-45df-9363-96068eb50c0e" />
 
 ---
