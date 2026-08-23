@@ -186,7 +186,6 @@ This separation reduced unnecessary privilege and demonstrated how Entra roles c
 
 
 <img width="932" height="896" alt="Screenshot (1415)" src="https://github.com/user-attachments/assets/10a3c875-942b-4317-afd3-0bbd9e8aac37" />
-![Hybrid Identity Administrator role](screenshots/hybrid-identity-administrator-role.png)
 
 *Aurora Cloud Admin assigned the Hybrid Identity Administrator role, providing dedicated hybrid identity administration without relying on Global Administrator.*
 
