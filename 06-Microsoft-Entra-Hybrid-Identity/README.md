@@ -433,13 +433,12 @@ This exercise provided practical experience investigating Microsoft Entra hybrid
 
 
 <img width="940" height="714" alt="Screenshot (1406)" src="https://github.com/user-attachments/assets/10654cd8-60ad-4e19-acdc-237370436f0b" />
-![Password Hash Synchronization health alert](screenshots/phs-heartbeat-health-alert.png)
 
 *Microsoft Entra health alert reporting that the Password Hash Synchronization heartbeat for `AUR-DC01` had been skipped for 120 minutes.*
 
 
 <img width="964" height="851" alt="Screenshot (1410)" src="https://github.com/user-attachments/assets/07b9a4dc-8509-4945-a240-b8c4bb6b4dd6" />
-![Password Hash Synchronization diagnostics](screenshots/phs-diagnostics-success.png)
+
 
 *ADSync diagnostics confirming that Password Hash Synchronization was enabled, a recent heartbeat was detected, password synchronization had succeeded, and the `aurora.local` domain was reachable.*
 
